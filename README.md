@@ -1,4 +1,4 @@
-# South By Southwest Demo App
+# Demo Application for the Multi-Cloud Workshop
 
 This is modified version of the application presented in  [RailsCast Episode 253](http://railscasts.com/episodes/253-carrierwave-file-uploads) on carrierwave file uploads. 
 
@@ -9,3 +9,5 @@ The following changes have been made:
 * Configured Uploader to use Fog
 
 The original source code can be found [here](https://github.com/ryanb/railscasts-episodes/tree/master/episode-253). 
+
+The workshop can be found [here](https://github.com/rackerlabs/multi-cloud-workshop).
